@@ -1,5 +1,6 @@
 # EmployeesManagmentAPI
 This Job Portal Application is built with .NET 7.0 and utilizes MSSQL to manage data. It enables two distinct roles: Employee and JobOffer.
+Please note that this project is specifically designed as a Web API and not as an MVC application.
 
 ## Role-Based Access Control
 
