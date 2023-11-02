@@ -8,7 +8,7 @@ This Job Portal Application is built with .NET 7.0 and utilizes MSSQL to manage 
 When logged in as an Employee, you have access to the following methods:
 
 - Publish your employee job position
-- View available job offers but you can't see other employee job positions by employee role
+- View available job offers but can't see other employee job positions by employee role
 - Filter job offers based on personal interests
 - Delete your employee job position
 
@@ -16,8 +16,8 @@ When logged in as an Employee, you have access to the following methods:
 
 When logged in as a JobOffer, you have access to the following methods:
 
-- Publish job offers
-- Access analytics for your job offers
+- Publish Job Offer
+- Access analytics for employee job positions but can't see other Job Offers by JobOffer role
 - Filter job positions based on personal interests
 - Delete your jobOffer
 
